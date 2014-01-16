@@ -1,0 +1,19 @@
+{
+  "name": "zombie-passport-twitter",
+  "version": "0.0.0",
+  "description": "Headless \"Sign In with Twitter\"",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "twitter",
+    "zombie",
+    "authentication",
+    "sign",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT"
+}
