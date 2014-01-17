@@ -1,6 +1,6 @@
 {
   "name": "zombie-passport-twitter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Headless \"Sign In with Twitter\"",
   "main": "./lib/index.js",
   "scripts": {
