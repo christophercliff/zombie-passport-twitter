@@ -29,3 +29,22 @@ zpt.signIn(YOUR_OPTIONS, function(err, browser){
         .expect(200)
 })
 ```
+
+## Tests
+
+Create a file `./test/config.json`:
+
+```json
+{
+  "username": "YOUR_USERNAME",
+  "password": "YOUR_PASSWORD",
+  "consumerKey": "YOUR_CONSUMER_KEY",
+  "consumerSecret": "YOUR_CONSUMER_SECRET"
+}
+```
+
+Then run:
+
+```
+$ grunt test
+```
